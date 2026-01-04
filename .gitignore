@@ -15,3 +15,37 @@ buildNumber.properties
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+
+
+
+# Rust / Cargo
+target/
+Cargo.lock
+**/*.rs.bk
+
+
+
+# Go
+/bin/
+/pkg/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go workspace
+go.work
+go.work.sum
+
+
+
+# IntelliJ / VS Code
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+

@@ -1,4 +1,4 @@
-# TDP024 - SOA Service
+# SOA Service
 
 ## Getting started
 
